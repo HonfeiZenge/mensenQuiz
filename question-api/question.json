@@ -1,0 +1,59 @@
+[
+    {
+        "question" : "1. What is the capital city of indonesia ?",
+        "name" : "q1",
+        "option1" : "Jakarta",
+        "option2" : "Surabaya",
+        "option3" : "Malang"
+
+    },
+    {
+        "question" : "2. How many is the population of Jakarta at 2020 ?",
+        "name" : "q2",
+        "option1" : "10.56 million",
+        "option2" : "5.57 million",
+        "option3" : "8.7 million"
+    },
+    {
+        "question" : "3. How many the APBN of Jakarta at 2020 ?",
+        "name" : "q3",
+        "option1" : "1.975 trillion",
+        "option2" : "2.100 trillion",
+        "option3" : "800 trillion"
+    },
+    {
+        "question" : "4. How many province in Indonesia ?",
+        "name" : "q4",
+        "option1" : "37 province",
+        "option2" : "34 province",
+        "option3" : "31 province"
+    },
+    {
+        "question" : "5. What is the capital city of East Java Province ?",
+        "name" : "q5",
+        "option1" : "Malang",
+        "option2" : "Bandung",
+        "option3" : "Surabaya"
+    },
+    {
+        "question" : "6. How many is the population of East Java  Province at 2020 ?",
+        "name" : "q6",
+        "option1" : "50.56 million",
+        "option2" : "30.57 million",
+        "option3" : "39.74 million"
+    },
+    {
+        "question" : "7. What is the color of Indonesian Flag ?",
+        "name" : "q7",
+        "option1" : "Black & White",
+        "option2" : "Red & White",
+        "option3" : "Yellow & Blue"
+    },
+    {
+        "question" : "8. Who is the first president of Indonesia ?",
+        "name" : "q8",
+        "option1" : "Ir. Balmond",
+        "option2" : "Ir. Soekarno",
+        "option3" : "Ir. Budi Utomo"
+    }
+]
